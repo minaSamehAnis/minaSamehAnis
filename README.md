@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN Stack<br>🎯 Goals: Senior MENRN Stack Developer</p>
+<p align="left">📚 I'm currently learning MERN Stack<br>🎯 Goals: Senior MERN Stack Developer</p>
 
 ###
 
