@@ -83,3 +83,13 @@
 <p align="left">CRUDS With Html css js : <a href="https://minasamehanis.github.io/CRUDS-With-Arabic/">minasamehanis.github.io/CRUDS-With-Arabic/</a><br>First react.js project : <a href="https://react-level-1-master.vercel.app">react-level-1-master.vercel.app</a> <br>Christian memory game : <a href="https://minasamehanis.github.io/Christian-memory-card">minasamehanis.github.io/Christian-memory-card/</a></p>
 
 ###
+
+<h2 align="left">Profile views</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MinaSamehAnis/count.svg?"  />
+</div>
+
+###
